@@ -1,0 +1,12 @@
+/* Import Bootstrap CSS */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.note {
+    display: flex;
+    align-items: center;
+  }
+  
+  .note-content {
+    flex-grow: 1;
+  }
+  
