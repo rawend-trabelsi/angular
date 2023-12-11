@@ -1,0 +1,32 @@
+/* Add this to your existing CSS file */
+
+body {
+    padding-top: 56px; /* Adjust based on your navbar height */
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+    background-color: #ff4da6; /* Pink navbar background */
+  }
+  
+  .navbar-light .navbar-nav .nav-link {
+    color: #fff; /* White text for navbar links */
+  }
+  
+  .navbar-light .navbar-toggler-icon {
+    background-color: #fff; /* White color for the navbar toggle icon */
+  }
+  
+  th,
+  td {
+    text-align: center;
+  }
+  
+  .fa {
+    cursor: pointer;
+    margin-right: 5px;
+    color: #ff4da6; /* Pink color for the Font Awesome icons */
+  }
+  
